@@ -1,0 +1,16 @@
+/home/baron/Desktop/dotnet/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.deps.json
+/home/baron/Desktop/dotnet/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.json
+/home/baron/Desktop/dotnet/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.dev.json
+/home/baron/Desktop/dotnet/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.dll
+/home/baron/Desktop/dotnet/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.pdb
+/home/baron/Desktop/dotnet/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csprojAssemblyReference.cache
+/home/baron/Desktop/dotnet/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csproj.CoreCompileInputs.cache
+/home/baron/Desktop/dotnet/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cache
+/home/baron/Desktop/dotnet/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cs
+/home/baron/Desktop/dotnet/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfoInputs.cache
+/home/baron/Desktop/dotnet/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfo.cs
+/home/baron/Desktop/dotnet/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorTargetAssemblyInfo.cache
+/home/baron/Desktop/dotnet/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.dll
+/home/baron/Desktop/dotnet/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.pdb
+/home/baron/Desktop/dotnet/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.xml
+/home/baron/Desktop/dotnet/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.xml
